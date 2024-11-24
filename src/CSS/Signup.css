@@ -1,0 +1,37 @@
+.Maindiv {
+    border: 1px solid black;
+    height: 90%;
+}
+
+.SignUpDiv {
+    height: 60%;
+    width: 40%;
+    margin: 5% 30% 0 30%;
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.CredsDiv {
+    border: 1px solid blue;
+    height: 25%;
+    width: 80%;
+}
+
+.InputBox {
+    width: 90%;
+    margin: 3% 0 0 0;
+}
+
+.ButtonDiv {
+    width: 80%;
+    height: 8%;
+    margin: 0 10% 0 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
